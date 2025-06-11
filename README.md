@@ -1,0 +1,2 @@
+# PowerBI
+Kimutatások PowerBI alkalmazásával.
